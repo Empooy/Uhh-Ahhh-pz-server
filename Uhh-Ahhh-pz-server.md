@@ -29,6 +29,8 @@ THEN CLICK SAVE
 
 ---YOU CAN JOIN NOW---
 
+OPTIONAL
+-We can use Hamachi just ask person who invited you to give you information to connect using HAMACHI
 
 IMPORTANT
 
