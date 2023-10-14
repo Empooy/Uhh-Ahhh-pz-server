@@ -8,6 +8,7 @@ link: https://www.zerotier.com/download/
 Step 2:
 - Clink Zerotier on your icon tray
 - Click "Join New Network" abd type this code "a0cbf4b62a21272e"
+
 AFTER YOU JOIN
 - Clink Zerotier on your icon tray again
 - and Click "Empoy Zomboid Server" and Check the "Allow Managed Addresses"
@@ -21,6 +22,7 @@ IP: 172.22.129.175
 Port: 16261
 No Password
 - Remember your Username and Password
+- 
 THEN CLICK ADD
 
 ---YOU CAN JOIN NOW---
