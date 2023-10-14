@@ -18,12 +18,14 @@ Step 3:
 - Open Your Project Zomboid
 - Click "JOIN" on your Menu
 - Type IP on your Add Favorite
-IP: 172.22.129.175
-Port: 16261
-No Password
+- IP: 172.22.129.175
+- Port: 16261
+- No Password
 - Remember your Username and Password
  
-THEN CLICK ADD
+ ![Alt text](https://cdn.discordapp.com/attachments/1000730942551359508/1162635648080019518/image.png?ex=653ca7d3&is=652a32d3&hm=250c813fc5da17adb82983f89aed72d5faddbc5411e22541d911da79393275ab&)
+
+THEN CLICK SAVE
 
 ---YOU CAN JOIN NOW---
 
