@@ -11,6 +11,7 @@ Step 2:
 AFTER YOU JOIN
 - Clink Zerotier on your icon tray again
 - and Click "Empoy Zomboid Server" and Check the "Allow Managed Addresses"
+- ![Alt text](https://cdn.discordapp.com/attachments/1092826952085295147/1162303252344361012/image.png?ex=653b7241&is=6528fd41&hm=65e9cfd77af8d929945bdd418a76b7a8874269fedfa03f71238dc67e4458f0d8&)
 
 Step 3:
 - Open Your Project Zomboid
