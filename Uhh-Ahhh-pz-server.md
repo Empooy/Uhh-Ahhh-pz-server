@@ -32,7 +32,7 @@ THEN CLICK SAVE
 
 IMPORTANT
 
-- If your lag o can't join just ask people who invite you to join or allow you to join to this Server!!
+- If you arer lag or can't join just ask people who invite you to join or allow you to join to this Server!!
 - If still lagging maybe the Hosting Server is downloading or updating the stuff in Computer!!
 - 200-260 MS is Normal because our server Hosting Located to Central USA
 - We dont know if Zerotier gonna work in Region of JAPAN and Middle East because Hamachi and Radmin isnt working!!
