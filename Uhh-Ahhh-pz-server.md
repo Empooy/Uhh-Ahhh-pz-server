@@ -22,6 +22,7 @@ Port: 16261
 No Password
 - Remember your Username and Password
 THEN CLICK ADD
+
 ---YOU CAN JOIN NOW---
 
 If your lag o can't join just ask people who invite you to join or allow you to join to this Server!!
