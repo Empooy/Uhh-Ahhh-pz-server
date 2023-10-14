@@ -22,7 +22,7 @@ IP: 172.22.129.175
 Port: 16261
 No Password
 - Remember your Username and Password
-- 
+ 
 THEN CLICK ADD
 
 ---YOU CAN JOIN NOW---
