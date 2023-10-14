@@ -27,7 +27,13 @@ THEN CLICK ADD
 
 ---YOU CAN JOIN NOW---
 
-If your lag o can't join just ask people who invite you to join or allow you to join to this Server!!
-If still lagging maybe sa Hosting Server downloading or updating on computer!!
 
+IMPORTANT
+
+
+-If your lag o can't join just ask people who invite you to join or allow you to join to this Server!!
+-If still lagging maybe sa Hosting Server downloading or updating on computer!!
+-200-260 MS is Normal because our server Hosting Located to Central USA
+-We dont know if Zerotier gonna work in Region of JAPAN and Middle East
+-Note: Hamachi is not yet supported on macOS Big Sur, macOS Monterey, and macOS Ventura.
 
