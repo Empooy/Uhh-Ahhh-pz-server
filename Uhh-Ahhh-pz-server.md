@@ -57,5 +57,7 @@ IMPORTANT
 - Lagging for First Join and First ride to any vehicles.
 - If You got DISCONNECTED dont worry you have 20-30 sec Protection Log in.
 - NOT OFFICIALLY UP! STILL ON BETA OPTIMIZING.
+- WEST POINT EXPANSION SOME OF THE HOUSE HAVE ROOF BUG NOT DISAPPEAR WHEN YOU GO INSIDE. (trying to Fix)
+- Be Careful using Ingame Mic! You can Attract Zombie
   
 
