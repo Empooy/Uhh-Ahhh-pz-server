@@ -6,11 +6,11 @@ link: https://www.zerotier.com/download/
 - Install it!!
 
 Step 2:
-- Clink Zerotier on your icon tray
+- Click Zerotier on your icon tray
 - Click "Join New Network" abd type this code "a0cbf4b62a21272e"
 
 AFTER YOU JOIN
-- Clink Zerotier on your icon tray again
+- Click Zerotier on your icon tray again
 - and Click "Empoy Zomboid Server" and Check the "Allow Managed Addresses"
 ![Alt text](https://cdn.discordapp.com/attachments/1092826952085295147/1162303252344361012/image.png?ex=653b7241&is=6528fd41&hm=65e9cfd77af8d929945bdd418a76b7a8874269fedfa03f71238dc67e4458f0d8&)
 
@@ -32,6 +32,21 @@ THEN CLICK SAVE
 OPTIONAL
 -We can use Hamachi just ask person who invited you to give you information to connect using HAMACHI
 
+====FOR HAMACHI====
+
+IP: 25.63.113.232 Port: 16261
+
+-PZ Server 1 = FULL
+
+-PZ Server 1-2 = 1/5
+
+-PZ Server 1-3 = 1/5
+
+-PZ Server 1-4 = 1/5
+
+PASSWORD: 12345
+
+
 IMPORTANT
 
 - If you arer lag or can't join just ask people who invite you to join or allow you to join to this Server!!
@@ -39,4 +54,8 @@ IMPORTANT
 - 200-260 MS is Normal because our server Hosting Located to Central USA
 - We dont know if Zerotier gonna work in Region of JAPAN and Middle East because Hamachi and Radmin isnt working!!
 - Note: Hamachi is not yet supported on macOS Big Sur, macOS Monterey, and macOS Ventura.
+- Lagging for First Join and First ride to any vehicles.
+- If You got DISCONNECTED dont worry you have 20-30 sec Protection Log in.
+- NOT OFFICIALLY UP! STILL ON BETA OPTIMIZING.
+  
 
