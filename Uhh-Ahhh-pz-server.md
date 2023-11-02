@@ -44,7 +44,6 @@ IP: 25.63.113.232 Port: 16261
 
 -PZ Server 1-4 = 1/5
 
-PASSWORD: 12345
 
 
 IMPORTANT
@@ -59,5 +58,6 @@ IMPORTANT
 - NOT OFFICIALLY UP! STILL ON BETA OPTIMIZING.
 - WEST POINT EXPANSION SOME OF THE HOUSE HAVE ROOF BUG NOT DISAPPEAR WHEN YOU GO INSIDE. (trying to Fix)
 - Be Careful using Ingame Mic! You can Attract Zombie
+- Dont Sleep because have a bug!!
   
 
