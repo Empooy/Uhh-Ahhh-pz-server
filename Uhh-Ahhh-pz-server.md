@@ -59,5 +59,12 @@ IMPORTANT
 - WEST POINT EXPANSION SOME OF THE HOUSE HAVE ROOF BUG NOT DISAPPEAR WHEN YOU GO INSIDE. (trying to Fix)
 - Be Careful using Ingame Mic! You can Attract Zombie
 - Dont Sleep because have a bug!!
+
+
+  SPECIAL FEATURED:
   
+- Zombie Hear your Ingame Mic
+- Evolving Traits
+- Transmog you can change your clothe apperance not stats
+
 
