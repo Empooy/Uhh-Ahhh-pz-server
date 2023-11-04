@@ -38,7 +38,7 @@ IP: 25.63.113.232 Port: 16261
 
 -PZ Server 1 = FULL
 
--PZ Server 1-2 = 1/5
+-PZ Server 1-2 = 3/5
 
 -PZ Server 1-3 = 1/5
 
