@@ -48,10 +48,10 @@ IP: 25.63.113.232 Port: 16261
 
 IMPORTANT
 
+- Zerotier Working in JAPAN Region and just check "STEAM RELAY"! and I dont know if Zerotier Working on  Middle East Country because RADMIN and Hamachi isnt working!
 - If you arer lag or can't join just ask people who invite you to join or allow you to join to this Server!!
 - If still lagging maybe the Hosting Server is downloading or updating the stuff in Computer!!
 - 200-260 MS is Normal because our server Hosting Located to Central USA
-- We dont know if Zerotier gonna work in Region of JAPAN and Middle East because Hamachi and Radmin isnt working!!
 - Note: Hamachi is not yet supported on macOS Big Sur, macOS Monterey, and macOS Ventura.
 - Lagging for First Join and First ride to any vehicles.
 - If You got DISCONNECTED dont worry you have 20-30 sec Protection Log in.
@@ -66,5 +66,8 @@ IMPORTANT
 - Zombie Hear your Ingame Mic
 - Evolving Traits
 - Transmog you can change your clothe apperance not stats
+
+SERVER SETTING:
+
 
 
