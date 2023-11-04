@@ -7,7 +7,7 @@ link: https://www.zerotier.com/download/
 
 Step 2:
 - Click Zerotier on your icon tray
-- Click "Join New Network" abd type this code "a0cbf4b62a21272e"
+- Click "Join New Network" and type this code "a0cbf4b62a21272e"
 
 AFTER YOU JOIN
 - Click Zerotier on your icon tray again
