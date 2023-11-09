@@ -29,8 +29,10 @@ THEN CLICK SAVE
 
 ---YOU CAN JOIN NOW---
 
+
 OPTIONAL
 -We can use Hamachi just ask person who invited you to give you information to connect using HAMACHI
+- IF you lagging on Zerotier just ask the person who invited you
 
 ====FOR HAMACHI====
 
@@ -38,11 +40,11 @@ IP: 25.63.113.232 Port: 16261
 
 -PZ Server 1 = FULL
 
--PZ Server 1-2 = 3/5
+-PZ Server 1-2 = FULL
 
 -PZ Server 1-3 = 1/5
 
--PZ Server 1-4 = 1/5
+-PZ Server 1-4 = 2/5
 
 
 
