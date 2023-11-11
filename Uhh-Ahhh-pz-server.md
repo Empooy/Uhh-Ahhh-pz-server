@@ -70,5 +70,6 @@ IMPORTANT
 
 SERVER SETTING:
 
+ ![Alt text](https://cdn.discordapp.com/attachments/957342674397052979/1172692511475634246/setting.jpg?ex=65613e02&is=654ec902&hm=d2523ab4bc5d97b03b16d92bf98f0b0b9c1a04dabef083a20fe8d0979db80343&)
 
 
